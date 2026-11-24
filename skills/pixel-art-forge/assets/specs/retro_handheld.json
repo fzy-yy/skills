@@ -1,0 +1,35 @@
+{
+  "project_name": "retro_handheld",
+  "palette": "gb4",
+  "materials": {
+    "dark_ink": [0, 1],
+    "steel": [0, 1, 2, 3],
+    "stone": [0, 1, 2, 3],
+    "gold": [0, 1, 2, 3],
+    "wood": [0, 1, 2, 3],
+    "leather": [0, 1, 2, 3],
+    "skin": [0, 1, 2, 3],
+    "cloth_red": [0, 1, 2, 3],
+    "cloth_blue": [0, 1, 2, 3],
+    "fire": [0, 1, 2, 3],
+    "grass": [0, 1, 2, 3],
+    "water": [0, 1, 2, 3],
+    "magic": [0, 1, 2, 3]
+  },
+  "light_dir": [-1.0, -1.0],
+  "outline": {
+    "mode": "black",
+    "color_index": 0,
+    "lit_boost": false,
+    "corners": "round"
+  },
+  "perspective": "topdown_3_4",
+  "dither": "bayer2x2",
+  "pixels_per_unit": 16,
+  "defaults_by_type": {
+    "icons": {"size": [16, 16], "padding": 1, "pivot_mode": "center"},
+    "characters": {"size": [16, 16], "padding": 1, "pivot_mode": "bottom_center"},
+    "tilesets": {"size": [16, 16], "padding": 0, "pivot_mode": "top_left"},
+    "ui": {"size": [24, 24], "padding": 0, "pivot_mode": "top_left"}
+  }
+}

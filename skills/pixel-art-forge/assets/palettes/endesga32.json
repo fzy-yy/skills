@@ -1,0 +1,13 @@
+{
+  "name": "endesga32",
+  "description": "Versatile 32-color hue-shifted palette suited for fantasy, RPG, icons, and vibrant pixel art.",
+  "colors": [
+    "#181425", "#262b44", "#3a4466", "#5a6988", "#8b9bb4", "#c0cbdc", "#ffffff",
+    "#be4a2f", "#d77643", "#ead4aa", "#e4a672", "#b86f50", "#733e39", "#3e2731",
+    "#a22633", "#e43b44", "#f77622", "#feae34", "#fee761",
+    "#63c74d", "#3e8948", "#265c42", "#193c3e",
+    "#124e89", "#0099db", "#2ce8f5",
+    "#68386c", "#b55088", "#f6757a",
+    "#e8b796", "#c28569", "#743f39"
+  ]
+}

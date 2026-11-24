@@ -1,0 +1,35 @@
+{
+  "project_name": "side_platformer",
+  "palette": "sweetie16",
+  "materials": {
+    "dark_ink": [0, 15, 14],
+    "steel": [0, 15, 14, 13, 12],
+    "stone": [0, 15, 14, 13],
+    "gold": [2, 3, 4, 12],
+    "wood": [1, 2, 3, 4],
+    "leather": [0, 1, 2, 3],
+    "skin": [2, 3, 4, 12],
+    "cloth_red": [1, 2, 3, 4],
+    "cloth_blue": [8, 9, 10, 11],
+    "fire": [2, 3, 4, 12],
+    "grass": [7, 6, 5, 4],
+    "water": [8, 9, 10, 11, 12],
+    "magic": [0, 1, 2, 11, 12]
+  },
+  "light_dir": [-1.0, -1.0],
+  "outline": {
+    "mode": "sel_out",
+    "color_index": 0,
+    "lit_boost": true,
+    "corners": "round"
+  },
+  "perspective": "side_view",
+  "dither": "none",
+  "pixels_per_unit": 16,
+  "defaults_by_type": {
+    "icons": {"size": [16, 16], "padding": 1, "pivot_mode": "center"},
+    "characters": {"size": [24, 32], "padding": 1, "pivot_mode": "bottom_center"},
+    "tilesets": {"size": [16, 16], "padding": 0, "pivot_mode": "top_left"},
+    "ui": {"size": [32, 32], "padding": 0, "pivot_mode": "top_left"}
+  }
+}

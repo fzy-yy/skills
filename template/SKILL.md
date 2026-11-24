@@ -1,7 +1,7 @@
 ---
 name: template
-description: Replace with description of the skill.
+description: 请替换为该技能的功能说明与适用场景。
 disable-model-invocation: true
 ---
 
-# Insert instructions below
+# 在此处编写技能指令

@@ -1,0 +1,11 @@
+{
+  "name": "dark_dungeon24",
+  "description": "Moody 24-color dark-fantasy palette with cold stone, aged bronze, crimson, and torchlight.",
+  "colors": [
+    "#110e19", "#1d1b2b", "#2f3047", "#4b516e", "#76819e", "#abb7cc",
+    "#2a1c1d", "#4e302b", "#7a4d3b", "#ad7757", "#d9b08c",
+    "#6e1d2c", "#ad2b36", "#e05834", "#f09b3a", "#fce068",
+    "#19332d", "#2c5947", "#4f8c5a", "#8cc26c",
+    "#1c3554", "#2c6294", "#55a0cc", "#e8eef5"
+  ]
+}

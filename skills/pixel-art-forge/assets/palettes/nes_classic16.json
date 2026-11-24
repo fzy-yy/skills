@@ -1,0 +1,10 @@
+{
+  "name": "nes_classic16",
+  "description": "Punchy 8-bit console-inspired 16-color palette.",
+  "colors": [
+    "#0c0c14", "#28283c", "#6c6c84", "#bcbccc", "#f8f8f8",
+    "#881400", "#d82800", "#fc9838", "#fcf064",
+    "#005000", "#00a800", "#80d010",
+    "#002888", "#2060ec", "#5cc4fc", "#f8b888"
+  ]
+}
